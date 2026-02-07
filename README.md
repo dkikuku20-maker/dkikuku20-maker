@@ -76,11 +76,3 @@ _**Where logic meets learning — and data drives discovery.**_
 _Open to collaborations, research discussions, and projects where data turns ideas into impact._
 
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkikuku20-maker&label=Profile%20views&color=0e75b6&style=flat" alt="dkikuku20-maker" />
-</p>
-
-
- _Open to collaborations, insights, and conversations that turn ideas into impact._ 
