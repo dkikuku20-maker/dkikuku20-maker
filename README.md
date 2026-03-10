@@ -57,7 +57,6 @@ _**Where logic meets learning — and data drives discovery.**_
 
 - 📧 **Email:** [d.kikuku20@gmail.com](mailto:d.kikuku20@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/dessailly-k-3504562a6](https://www.linkedin.com/in/dessailly-k-3504562a6)  
-- 💻 **GitHub:** [github.com/dkikuku20-maker](https://github.com/dkikuku20-maker)  
 - 📊 **Tableau:** [public.tableau.com/app/profile/dessailly.kikuku](https://public.tableau.com/app/profile/dessailly.kikuku)
 
 ---
