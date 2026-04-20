@@ -1,4 +1,4 @@
-### Data Scientist & Analyst | Python | SQL | Tableau | R | Machine Learning 
+### Data Scientist & Analyst | Python | SQL | Tableau & Power BI | R | Machine Learning 
 
 Hi there! 👋  
 I transform data into **actionable insights** that drive **business decisions and social impact**.
