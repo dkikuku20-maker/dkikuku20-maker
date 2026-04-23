@@ -27,7 +27,7 @@ _**Where logic meets learning — and data drives discovery.**_
 
 ### **Data Platforms & Cloud**
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/> | <img src="https://seeklogo.com/images/S/snowflake-logo-5E3C73F6F9-seeklogo.com.png" width="48"/> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/databricks.png" width="48"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/> | <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48"/> | <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48"/> |
 | :-: | :-: | :-: |
 | Google Cloud Platform (GCP) | Snowflake | Databricks |
 
