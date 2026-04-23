@@ -1,7 +1,7 @@
-### Data Scientist & Analyst | Python | SQL | Tableau & Power BI | R | Machine Learning 
+### Data Scientist & Analyst | Python | SQL | Machine Learning | Tableau & Power BI | Databricks | Snowflake | Google Cloud  
 
 Hi there! 👋  
-I transform data into **actionable insights** that drive **business decisions and social impact**.
+I transform data into **actionable insights** that drive **business decisions and real-world impact**.
 
 _**Where logic meets learning — and data drives discovery.**_
 
@@ -25,9 +25,17 @@ _**Where logic meets learning — and data drives discovery.**_
 
 ---
 
+### **Data Platforms & Cloud**
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/> | <img src="https://seeklogo.com/images/S/snowflake-logo-5E3C73F6F9-seeklogo.com.png" width="48"/> | <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/databricks.png" width="48"/> |
+| :-: | :-: | :-: |
+| Google Cloud Platform (GCP) | Snowflake | Databricks |
+
+---
+
 ### **Tools & Technologies**
 
-| ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) | ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | ![Excel](https://img.icons8.com/?size=48&id=117561&format=png&color=000000) | ![Git](https://img.icons8.com/color/48/000000/git.png) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/> | ![Google Colab](https://img.icons8.com/color/48/000000/google-colab.png) | ![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets.png) | ![Overleaf](https://img.icons8.com/color/48/000000/latex.png) |
+| ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) | ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | ![Excel](https://img.icons8.com/?size=48&id=117561&format=png&color=000000) | ![Git](https://img.icons8.com/color/48/000000/git.png) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48"/> | ![Google Colab](https://img.icons8.com/color/48/000000/google-colab.png) | ![Google Sheets](https://img.icons8.com/color/48/000000/google-sheets.png) | ![Overleaf](https://img.icons8.com/color/48/000000/latex.png) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Tableau | Power BI | Excel | Git & GitHub | Jupyter | Google Colab | Google Sheets | LaTeX (Overleaf) |
 
@@ -35,7 +43,7 @@ _**Where logic meets learning — and data drives discovery.**_
 
 ### **Operating Systems**
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" width="48" height="48" alt="Windows"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="48" height="48" alt="macOS"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" width="48"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="48"/> |
 | :-: | :-: | :-: |
 | Linux | Windows | macOS |
 
@@ -43,13 +51,14 @@ _**Where logic meets learning — and data drives discovery.**_
 
 ## 🚀 How I Add Value
 
-- **Strong Analytical Foundation:** Background in **Computer Science & Mathematics**, combining statistical rigor with practical problem-solving.  
-- **Applied Machine Learning:** Hands-on experience with supervised learning, model evaluation (F1, ROC-AUC, Top-K), and class-imbalanced data.  
-- **Data-Driven Decision Making:** Skilled at framing business questions, validating datasets, and translating model outputs into actionable insights.  
-- **Insightful Visualization:** Experienced in **Tableau, Power BI, and Python** to communicate complex findings clearly to technical and non-technical stakeholders.  
-- **Human-Centered ML:** Built computer vision and NLP ranking systems where interpretability and operational constraints matter.  
-- **Collaborative Communicator:** Former math & science tutor; comfortable explaining technical results to diverse audiences.  
-- **Lifelong Learner:** Continuously expanding skills across analytics, machine learning, and social-impact research.
+- **Strong Analytical Foundation:** Background in **Computer Science & Mathematics**, combining statistical thinking with practical problem-solving.  
+- **Applied Machine Learning:** Experience with supervised learning, model evaluation (**F1, ROC-AUC, Top-K**), and handling class imbalance.  
+- **Data-Driven Decision Making:** Skilled at framing business problems, validating datasets, and translating results into clear actions.  
+- **Insightful Visualization:** Build dashboards and reports using **Tableau, Power BI, and Python** to communicate findings effectively.  
+- **Human-Centered ML:** Developed computer vision and ranking systems where interpretability and real-world constraints matter.  
+- **Modern Data Stack Exposure:** Familiar with cloud-based workflows using **Google Cloud, Databricks, and Snowflake** for scalable data processing.  
+- **Clear Communicator:** Experience explaining technical concepts through tutoring and collaborative work environments.  
+- **Continuous Growth:** Actively improving skills across analytics, machine learning, and data engineering.
 
 ---
 
@@ -72,6 +81,6 @@ _**Where logic meets learning — and data drives discovery.**_
   <img src="https://komarev.com/ghpvc/?username=dkikuku20-maker&label=Profile%20views&color=0e75b6&style=flat" alt="dkikuku20-maker" />
 </p>
 
-_Open to collaborations, research discussions, and projects where data turns ideas into impact._
+_Open to data science, analytics, and machine learning opportunities where data creates measurable impact._
 
 
