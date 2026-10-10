@@ -1,4 +1,4 @@
-### Data Scientist & Analyst | Python | SQL | Machine Learning | Tableau & Power BI | Databricks | Snowflake | Google Cloud  
+### Data Scientist & Analyst 
 
 Hi there! 👋  
 I transform data into **actionable insights** that drive **business decisions and real-world impact**.
