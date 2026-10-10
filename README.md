@@ -7,7 +7,7 @@ _**Where logic meets learning — and data drives discovery.**_
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills & Interests
 
 ### **Languages**
 
